@@ -16,7 +16,7 @@ To use the component in your React application, import it and use it in your cod
 
 ```
 import React from 'react';
-import { BlogCard } from 'react-blog-card';
+import { BlogCard } from 'react-blog-mir';
 
 const MyComponent = () => {
   return (
