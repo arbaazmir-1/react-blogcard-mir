@@ -7,7 +7,7 @@ To use this component in your project, you can install it via npm:
 Copy code
 
 ``` 
-npm install react-blog-card 
+npm install react-blog-mir
 ```
 
 Usage
