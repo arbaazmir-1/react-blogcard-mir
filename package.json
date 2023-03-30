@@ -1,6 +1,6 @@
 {
   "name": "react-blogcard-mir",
-  "version": "1.0.2",
+  "version": "1.0.2b",
   "description": "This is a react component for blog card.",
   "main": "src/index.ts",
   "files": [
@@ -20,5 +20,12 @@
     "react": "^18.2.0",
     "styled-components": "^5.3.9",
     "typescript": "^5.0.2"
-  }
+  },
+  "keywords": [
+    "react",
+    "blog",
+    "card",
+    "blogcard",
+    "react-blogcard"
+  ]
 }

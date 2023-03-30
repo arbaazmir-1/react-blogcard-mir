@@ -1,12 +1,14 @@
 # react-blogcard-mir
-This is a simple React component for displaying a blog post card, created as an experiment by a new developer.
+This is a simple React component for displaying a blog post card, created as an experiment.
 
 Installation
 To use this component in your project, you can install it via npm:
 
 Copy code
 
-``` npm install react-blog-card ```
+``` 
+npm install react-blog-card 
+```
 
 Usage
 To use the component in your React application, import it and use it in your code:
@@ -49,4 +51,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 ## This was an experimental work. Use with caution please!
-[Github](https://github.com/arbaazmir-1)
