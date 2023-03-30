@@ -45,6 +45,16 @@ The component accepts the following props:
 * widthCard (string, optional): The width of the card, as a CSS value. Default is "100%".
 
 
+## Contributing
+Contributions are welcome! Here are the steps to contribute:
+
+* Fork the repository
+* Create a new branch (git checkout -b my-new-branch)
+* Make changes and commit (git commit -am "Add some feature")
+* Push to the branch (git push origin my-new-branch)
+* Create a pull request
+
+
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
