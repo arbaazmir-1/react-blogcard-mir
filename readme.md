@@ -1,5 +1,8 @@
+![alt text](https://github.com/arbaazmir-1/react-blogcard-mir/blob/master/image.png?raw=true)
 # react-blogcard-mir
 This is a simple React component for displaying a blog post card, created as an experiment.
+
+An example of this package can be found here [Website](https://www.abdullahibnshahin.com/)
 
 Installation
 To use this component in your project, you can install it via npm:
