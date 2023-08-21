@@ -1,7 +1,7 @@
 {
   "name": "react-blogcard-mir",
-  "version": "1.0.2e",
-  "description": "This is a react component for blog card.",
+  "version": "2.0.0",
+  "description": "This is a react component for blog card. It is a simple and easy to use component. It is a responsive component. It is a customizable component. It is a component that can be used in any react project.",
   "main": "src/index.ts",
   "files": [
     "src/**/*"
