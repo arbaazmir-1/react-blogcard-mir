@@ -7,7 +7,7 @@ To use this component in your project, you can install it via npm:
 Copy code
 
 ``` 
-npm install react-blog-mir
+npm i react-blogcard-mir
 ```
 
 Usage
@@ -16,7 +16,7 @@ To use the component in your React application, import it and use it in your cod
 
 ```
 import React from 'react';
-import { BlogCard } from 'react-blog-mir';
+import { BlogCard } from 'react-blogcard-mir';
 
 const MyComponent = () => {
   return (
@@ -48,7 +48,7 @@ The component accepts the following props:
 ## Contributing
 Contributions are welcome! Here are the steps to contribute:
 
-* Fork the repository
+* Fork the repository [Github](https://github.com/arbaazmir-1/react-blogcard-mir/settings)
 * Create a new branch (git checkout -b my-new-branch)
 * Make changes and commit (git commit -am "Add some feature")
 * Push to the branch (git push origin my-new-branch)
